@@ -1,7 +1,7 @@
 # Tailscale VPN on PaaS
 [Tailscale VPN](https://tailscale.com) on PaaS hostings such as railway, render, back4app and etc.
 
-### [!] This repository was created as an fork of https://github.com/render-examples/tailscale/ and https://github.com/Andrew-Bekhiet/railway_tailscale_vpn
+### [!] This repository was created as a fork of https://github.com/render-examples/tailscale/ and https://github.com/Andrew-Bekhiet/railway_tailscale_vpn
 
 # One Click Deploy
 
