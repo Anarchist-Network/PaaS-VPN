@@ -22,4 +22,5 @@ RUN mkdir -p /var/run/tailscale /var/cache/tailscale /var/lib/tailscale
 
 RUN chmod +x ./start.sh
 RUN chmod +x ./uptime.py
+EXPOSE 80
 CMD ["./start.sh"]
